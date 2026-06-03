@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-change-this-key-later'
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    "portfolio-system-6.onrender.com",
+    ".onrender.com",
     "localhost",
     "127.0.0.1",
 ]
